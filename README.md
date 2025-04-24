@@ -18,9 +18,10 @@ Universal Bash script to automatically deploy Docker and Docker Compose on major
 ### 🔄 1. Clone the repository
 
 ```bash
-📥 git clone https://github.com/onezuppi/install-docker-sh.git
+git clone https://github.com/onezuppi/install-docker-sh.git
 cd install-docker-sh
-chmod +x install-docker.sh      # if needed
+# if needed
+chmod +x install-docker.sh
 sudo ./install-docker.sh
 ```
 
