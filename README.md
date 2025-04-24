@@ -30,14 +30,14 @@ sudo ./install-docker.sh
 #### With `curl`:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/onezuppi/install-docker-sh/main/install-docker.sh \
+curl -fsSL https://raw.githubusercontent.com/onezuppi/install-docker-sh/refs/heads/main/install.sh \
   | sudo bash
 ```
 
 #### With `wget`:
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/onezuppi/install-docker-sh/main/install-docker.sh \
+wget -qO- https://raw.githubusercontent.com/onezuppi/install-docker-sh/refs/heads/main/install.sh \
   | sudo bash
 ```
 
